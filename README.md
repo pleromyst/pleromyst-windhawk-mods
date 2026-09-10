@@ -13,13 +13,6 @@ Move the native Windows 11 clock/notification button to the left without shiftin
 - ✅ Available in the official Windhawk Mod Store
 - Source code: [`mod/taskbar-clock-to-left.wh.cpp`](mod/taskbar-clock-to-left.wh.cpp)
 
-#### Preview
-
-![Taskbar preview](taskbar-preview.png)
-
-#### Available on Windhawk
-
-![Windhawk Mod Store](windhawk-store.png)
 ## Repository Relationship
 
 This repository is the main home for my personal Windhawk mods.
@@ -48,3 +41,5 @@ Development and documentation are maintained here. Versions intended for officia
   - 将 Windows 11 原生时钟/通知按钮移动到任务栏左侧
   - 不影响居中的任务栏应用图标
   - ✅ 已收录至 Windhawk 官方 MOD 商店
+  -![Taskbar preview](taskbar-preview.png)
+  -![Windhawk Mod Store](windhawk-store.png)
