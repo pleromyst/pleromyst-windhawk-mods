@@ -41,5 +41,6 @@ Development and documentation are maintained here. Versions intended for officia
   - 将 Windows 11 原生时钟/通知按钮移动到任务栏左侧
   - 不影响居中的任务栏应用图标
   - ✅ 已收录至 Windhawk 官方 MOD 商店
-  -![Taskbar preview](taskbar-preview.png)
-  -![Windhawk Mod Store](windhawk-store.png)
+  ![Taskbar preview](taskbar-preview.png)
+
+  ![Windhawk Mod Store](windhawk-store.png)
