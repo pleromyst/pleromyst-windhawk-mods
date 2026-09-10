@@ -13,6 +13,13 @@ Move the native Windows 11 clock/notification button to the left without shiftin
 - ✅ Available in the official Windhawk Mod Store
 - Source code: [`mod/taskbar-clock-to-left.wh.cpp`](mod/taskbar-clock-to-left.wh.cpp)
 
+#### Preview
+
+![Taskbar preview](taskbar-preview.png)
+
+#### Available on Windhawk
+
+![Windhawk Mod Store](windhawk-store.png)
 ## Repository Relationship
 
 This repository is the main home for my personal Windhawk mods.
